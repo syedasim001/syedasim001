@@ -12,6 +12,9 @@ Watch GitHub on Youtube Today
 
 Second GitHub  on YourTube,
 
+## Local Development
+1. open index.html in your browser.
+
 <!---
 syedasim001/syedasim001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
